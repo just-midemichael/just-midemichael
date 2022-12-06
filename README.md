@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Olumide Michael Ojo. welcome to my space!
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...wed dev/front-end
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Web Dev and App Dev
+- 🌱 I’m currently learning Full Stack Software Engineering
+- 💞️ I’m looking to collaborate on Awesome Projects
 - 📫 How to reach me ... wwww.olumidemichaelojo.netlify.app
 
 <!---
